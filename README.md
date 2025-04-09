@@ -4,3 +4,5 @@
  -REVENUE BY PIZZA CATEGORY AND SIZE
  MONTHLY AND WEEKLI SALES TRENDS
  WORST PIZZA 
+#DATA/#Raw and cleanded data files (csv,excel)
+SQL/#SQL scripts for data cleaning and transformation
